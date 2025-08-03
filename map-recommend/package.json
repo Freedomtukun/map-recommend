@@ -1,0 +1,13 @@
+{
+  "name": "map-recommend",
+  "version": "1.0.0",
+  "description": "统一的地图推荐云函数，支持查询附近商家并生成个性化推荐语",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "qs": "^6.11.2"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
